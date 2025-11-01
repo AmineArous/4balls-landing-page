@@ -8,7 +8,7 @@ appstore_link                             :                                     
 playstore_link                            :                                           # Jeu iOS uniquement
 presskit_download_link                    :                                           # Ex: assets/presskit.zip si tu en as un
 
-app_icon                                  : assets/appicon.png                        # Mets ton icône exportée ici
+app_icon                                  : #assets/appicon.png                        # Mets ton icône exportée ici
 app_name                                  : 4 Balls
 app_price                                 :                                           # Auto si ID, sinon ex: Free
 app_description                           : Face the bull!
